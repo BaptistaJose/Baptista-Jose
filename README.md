@@ -44,7 +44,7 @@ API REST completa con autenticación, productos, categorías, órdenes, migracio
 
 - 📍 Argentina, CABA  
 - 📧 Email: baptistaj133@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/baptistajose/
+- 💼 LinkedIn: https://www.linkedin.com/in/jos%C3%A9-baptista-55229630b/
 
 ---
 
